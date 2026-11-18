@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+primaryColor = "#65C18C"
+backgroundColor = "#0B2118"
+secondaryBackgroundColor = "#123528"
+textColor = "#FFFFFF"
+borderColor = "#315344"
+font = "sans serif"
+baseRadius = "medium"
+buttonRadius = "medium"
+showWidgetBorder = true
+showSidebarBorder = false
+paddingTop = "2rem"
+paddingBottom = "2rem"
+chartCategoricalColors = ["#65C18C", "#A4CF61", "#EDC85D", "#E99854", "#D96865", "#9977AD"]
